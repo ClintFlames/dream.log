@@ -1,0 +1,27 @@
+{
+  "name": "dream.log",
+  "version": "1.0.0",
+  "description": "dream.log for cool log design.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFormen3000/dream.log.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "log",
+    "console",
+    "design"
+  ],
+  "author": "clint_flames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFormen3000/dream.log/issues"
+  },
+  "homepage": "https://github.com/CFormen3000/dream.log#readme"
+}
