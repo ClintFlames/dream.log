@@ -1,24 +1,24 @@
 <div align="center">
-  <p>
-    <div>
-      <a href="https://www.npmjs.com/package/dream.log">
-        <img alt="npm version" src="https://img.shields.io/npm/v/dream.log">
-      <a>
-      <a href="https://www.npmjs.com/package/dream.log">
-        <img src="https://img.shields.io/npm/dt/dream.log.svg" alt="npm downloads">
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/CFormen3000/dream.log">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/CFormen3000/dream.log?logo=github">
-      </a>
-    </div>
-  </p>
-  <p>
-    <a href="https://nodei.co/npm/dream.log/">
-      <img src="https://nodei.co/npm/dream.log.png?downloads=true&stars=true">
-    </a>
-  </p>
+    <p>
+        <div>
+            <a href="https://www.npmjs.com/package/dream.log">
+                <img alt="npm version" src="https://img.shields.io/npm/v/dream.log">
+                <a>
+                    <a href="https://www.npmjs.com/package/dream.log">
+                        <img src="https://img.shields.io/npm/dt/dream.log.svg" alt="npm downloads">
+                    </a>
+        </div>
+        <div>
+            <a href="https://github.com/CFormen3000/dream.log">
+                <img alt="GitHub stars" src="https://img.shields.io/github/stars/CFormen3000/dream.log?logo=github">
+            </a>
+        </div>
+    </p>
+    <p>
+        <a href="https://nodei.co/npm/dream.log/">
+            <img src="https://nodei.co/npm/dream.log.png?downloads=true&stars=true">
+        </a>
+    </p>
 </div>
 	
 # dream.log for cool log design.
